@@ -18,7 +18,7 @@ import javax.servlet.http.HttpSession;
  * @author Alice
  */
 public class Deconnexion extends HttpServlet {
-    public static final String URL_REDIRECTION = "http://www.facebook.com";
+    public static final String URL_REDIRECTION = "www.facebook.com";
     public static final String VUE = "/connexion";
     
     public void doGet( HttpServletRequest request, HttpServletResponse response ) throws ServletException, IOException {
