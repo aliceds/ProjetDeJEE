@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletResponse;
 public class Inscription extends HttpServlet {
     public static final String ATT_USER = "utilisateur";
     public static final String ATT_FORM = "form";
-    public static final String VUE = "/inscription.jsp";
+    public static final String VUE = "/WEB-INF/inscription.jsp";
 
     
     @Override
