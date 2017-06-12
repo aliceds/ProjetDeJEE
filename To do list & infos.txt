@@ -1,0 +1,40 @@
+﻿JEE
+A faire aujourd'hui
+- DONE : Finir Connexion (form + servlet + utilisateur)
+- Finir Inscription (idem)
+- Finir Déconnexion (idem)
+
+- Terminer les autres vues
+	* Panier (sans BD)
+	* Mes commandes (sans BD)
+	* Mes informations (sans BD) penser à mettre des TO DO
+	* Validation panier
+
+A faire :
+- Modifier le CSS pour que les formulaires ressemblent à qqchose
+- Modifier l'affichage de lien selon connecté ou non
+	* Si pas connecté :
+		.Afficher Inscription/Connexion
+		.Ne peut pas accéder à son compte
+		.Ne peut pas accéder (ou juste valider ?) le panier
+	* Si connecté :
+		.Afficher Déconnexion
+		.Peut accéder au compte
+		.Peut accéder/valider le panier
+		
+- Accès base de données
+- Trouver quoi mettre dedans (quels articles ?)
+- Relier BD à l'affichage
+- Cookie ??
+- Améliorer le visuel (plus coloré, plus d'images...)
+
+Infos supplémentaires
+Design noté sur 2 points (bonus)
+
+- Présentation Power Point (16 juin)
+	* Expliquer notre MVC
+	* Expliquer comment 
+	* Fin de prés' : démo du site
+	(s'il ne marche pas c'est pas très grave, il faut juste bien implémenter les composants)
+- Rapport (17 ou 18 juin)
+	* Explication détaillée des classes (plus approfondi que pendant la prés)
